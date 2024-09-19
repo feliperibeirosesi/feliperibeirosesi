@@ -16,7 +16,8 @@
     👨‍💻  Estudando para ser Desenvolvedor backend;  <br>
     📱 <strong>Prefiro JavaScript;</strong> <br>
     🎮 <strong>80% Gamer;</strong> <br>
-     🤠 <strong>20% Musico;</strong> <br>
+     🤠 <strong>15% Musico;</strong> <br>
+     👾<strong>5% Programador ;</strong>
     📺 <strong>Amo desafios;</strong> <br>
 </div>
 
