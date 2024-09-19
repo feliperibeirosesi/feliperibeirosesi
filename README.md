@@ -1,28 +1,21 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hello!;+Tudo+bem+com+você?" alt="Typing SVG" style="display: inline-block;">
 
 <div align="center">
 
-<img src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5asbec-bbbda53c-4688-478c-8eef-1fc61d37cc96.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDVhc2JlYy1iYmJkYTUzYy00Njg4LTQ3OGMtOGVlZi0xZmM2MWQzN2NjOTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iVwIobqBCsd9CfdbotVYUCN6CHY6oCTKdCn9adIBKyY](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmugen.fandom.com%2Fwiki%2FRoad_Roller!&psig=AOvVaw0cCbR-ogsUjEpDlMZEV0qg&ust=1726838631842000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCP-7uNz4gDFQAAAAAdAAAAABAE)" width="600" height="300" >
+<img src="https://media.tenor.com/A5a7HBtkvVoAAAAC/jojo-johny-joestar.gif" width="600" height="300" >
 
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 <br>
 <br>
 <div align="center">
   <h2><img src="https://cdn-icons-png.flaticon.com/512/3706/3706499.png" width="25" height="25" alt="Imagem icon sobre" />   Sobre </h2>
-    👨‍💻  Desenvolvedor apaixonado pelo front-end;  <br>
-    🌱 <strong>Aprendendo sempre;</strong> <br>
-    🏠 Caseiro; <br>
-    🎮 <strong>( +/- ) Gamer;</strong> <br>
-    💻 Steam https://steamcommunity.com/id/tikizer4/ <br>
+    👨‍💻  Estudando para ser Desenvolvedor backend;  <br>
+    📱 <strong>Prefiro JavaScript;</strong> <br>
+    🎮 <strong>80% Gamer;</strong> <br>
+     <br>
     📺 <strong>Amo assistir séries/filmes em familia;</strong> <br>
 </div>
 
