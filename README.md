@@ -17,7 +17,7 @@
     📱 <strong>Prefiro JavaScript;</strong> <br>
     🎮 <strong>80% Gamer;</strong> <br>
      🤠 <strong>15% Musico;</strong> <br>
-     👾<strong>5% Programador ;</strong>
+     👾<strong>5% Programador ;</strong> <br>
     📺 <strong>Amo desafios;</strong> <br>
 </div>
 
