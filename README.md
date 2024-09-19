@@ -6,8 +6,6 @@
 
 </div>
 
-
-
 <br>
 <br>
 <div align="center">
@@ -15,8 +13,8 @@
     👨‍💻  Estudando para ser Desenvolvedor backend;  <br>
     📱 <strong>Prefiro JavaScript;</strong> <br>
     🎮 <strong>80% Gamer;</strong> <br>
-     <br>
-    📺 <strong>Amo assistir séries/filmes em familia;</strong> <br>
+     🤠 <strong>20% Musico;</strong> <br>
+    📺 <strong>Amo desafios;</strong> <br>
 </div>
 
 <br>
@@ -32,24 +30,10 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="57" height="62" alt="css" />
     </td>  
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    </td>
-    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="48" height="48" alt="GitHub" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -73,7 +57,7 @@
 <br>
 <div align="center">
   <h2><img src="https://cdn-icons-png.flaticon.com/512/3771/3771518.png" width="25" height="25" alt="Imagem icon sobre" />   Contato</h2>
-    <a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
 </div>
 
@@ -81,5 +65,5 @@
 <br>
 
 <div align="center"> 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img src="https://c.tenor.com/l0CmagMdEjAAAAAd/tenor.gif">
 </div>
