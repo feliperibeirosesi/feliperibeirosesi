@@ -1,4 +1,4 @@
-pe<div align="center">
+<div align="center">
 
 <img src="https://media.tenor.com/A5a7HBtkvVoAAAAC/jojo-johny-joestar.gif" width="600" height="300" >
 
