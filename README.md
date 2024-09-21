@@ -16,7 +16,7 @@
 <br>
 <br>
 <div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/512/3706/3706499.png" width="25" height="25" alt="Imagem icon sobre" />   Sobre </h2>
+  <h2><img src="https://media.tenor.com/KO9QvGJZeJQAAAAi/hakari-hakari-dance.gif" width="70" height="70" alt="Imagem icon sobre" />   Sobre </h2>
     👨‍💻  Estudando para ser Desenvolvedor backend;  <br>
     📱 <strong>Prefiro JavaScript;</strong> <br>
     🎮 <strong>80% Gamer;</strong> <br>
