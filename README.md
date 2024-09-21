@@ -3,7 +3,11 @@
 <img src="https://media.tenor.com/A5a7HBtkvVoAAAAC/jojo-johny-joestar.gif" width="600" height="300" >
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hello!;+Tudo+bem+com+você?" alt="Typing SVG" style="display: inline-block;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%23800080&size=48&center=true&vCenter=true&width=1200&height=100&lines=Bem+vindo(a)!;+Tudo+bem+com+você?;+Meu+nome+é+Felipe;+Aqui+é+apenas+um+local+de+estudo;+Por+isso+espero+que+goste" alt="Typing SVG" style="display: inline-block;">
+
+
+
+
 
 
 
