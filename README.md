@@ -73,5 +73,5 @@
 <br>
 
 <div align="center"> 
-<img src="https://c.tenor.com/l0CmagMdEjAAAAAd/tenor.gif">
+<img src="https://media.tenor.com/cssuA7kP5GkAAAAM/don-lorenzo-blue-lock.gif" width="680" height="480" alt="GitHub">
 </div>
