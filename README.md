@@ -66,7 +66,7 @@ webcore enthusiast.
 
 <!-- github status-->
 <h3 align="center">
-<img src="./assets/github_black_logo_icon_147128.png" width=18>
+<img src="./assets/github_black_logo_icon_147128.png" width=25>
  Github Status 
 </h3>
 <br>
