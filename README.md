@@ -6,23 +6,23 @@
 <!--  views/stars/followers -->
 </br>
 <div align="center">
-<a href="https://github.com/Glauedson">
+<a href="https://github.com/feliperibeirosesi">
   <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=feliperibeirosesi&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
        title="Total de visualizações"/> 
 </a>
-<a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+<a href="https://api.github-star-counter.workers.dev/user/feliperibeirosesi">
   <img width="115px" 
        alt="seguidores" 
        title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/feliperibeirosesi" /> 
 </a>
-<a href="https://github.com/Glauedson?tab=followers">
+<a href="https://github.com/feliperibeirosesi?tab=followers">
   <img width="150px" 
        alt="seguidores" 
        title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       src="https://custom-icon-badges.herokuapp.com/github/followers/feliperibeirosesi?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
 
@@ -69,10 +69,10 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
   <!-- spotify and more -->
   <div align="center">
 
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=feliperibeirosesi18s@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://www.linkedin.com/in/feliperibeirosesi-carlos-89875b258/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
@@ -95,7 +95,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Status -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=feliperibeirosesi&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
@@ -110,7 +110,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/feliperibeirosesi/github-readme-educational-badge)
 
 <div>
 
@@ -144,32 +144,32 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
   </h3></br>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
+    <a href="https://github.com/feliperibeirosesi/Lembra-Plus-task-app">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
-    <a href="https://github.com/Glauedson/github-readme-educational-badge">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/feliperibeirosesi/github-readme-educational-badge">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
 <div align="center">
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/MicroControladores">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=microcontroladores&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/feliperibeirosesi/MicroControladores">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=microcontroladores&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
-    <a href="https://github.com/Glauedson/SPACED">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
+    <a href="https://github.com/feliperibeirosesi/SPACED">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
 </div>
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/WhatIsTheLanguage">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
+    <a href="https://github.com/feliperibeirosesi/WhatIsTheLanguage">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
-    <a href="https://github.com/Glauedson/Tapiocaria">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=fffff" />
+    <a href="https://github.com/feliperibeirosesi/Tapiocaria">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=fffff" />
     </a>
 </div>
 </br>
