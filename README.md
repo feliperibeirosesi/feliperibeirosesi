@@ -1,5 +1,5 @@
 <!-- Banner  -->
-<a href="https://github.com/feliperibeirosesi">
+<a href="https://github.com/feliperibeirosesi/feliperibeirosesi">
   <img src="./assets/banner.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
