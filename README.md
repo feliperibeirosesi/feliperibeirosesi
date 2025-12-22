@@ -8,7 +8,7 @@
 
 </br>
 
-<img src="https://tenor.com/pt-BR/view/golisopod-golisopodthegoat-gif-25172614.gif" width=330 align="left">
+<img src="./assets/golispod.gif" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
