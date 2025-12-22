@@ -88,7 +88,7 @@ webcore enthusiast.
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/feliperibeirosesi/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Harvard%20University&course=Ciência%20da%20Computação&degree=Mestrado&progress=90%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GQ7Ku6uEiT0B0nzcP1fqZT4XoDQiir4PRw&s)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <div>
 
