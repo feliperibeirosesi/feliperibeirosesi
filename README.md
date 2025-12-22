@@ -1,8 +1,7 @@
 <!-- Banner  -->
-<a href="https://github.com/Glauedson">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+<a href="https://github.com/feliperibeirosesi">
+  <img src="./assets/banner.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
-
 
 <!--  views/stars/followers -->
 </br>
@@ -33,6 +32,7 @@
 <div align="center">
 
 **Who Am I?**
+
 </div>
 
 <div align="justify">
@@ -48,11 +48,8 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 </div>
 </br>
 
-
-
-
-
 <!-- Gif  -->
+
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- A Little More About Me -->
@@ -62,14 +59,15 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
- ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
- ⬜ Currently working on projects with React.  </br>
- ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
- ⬜ Interested in any large-scale project that makes me think.</br>
- ⬛ Minimalism enthusiast.
- ㅤ
-  <!-- spotify and more --> 
-  <div align="center"> 
+⬛ I enjoy being around more experienced people who challenge me to grow.</br>
+⬜ Currently working on projects with React. </br>
+⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
+⬜ Interested in any large-scale project that makes me think.</br>
+⬛ Minimalism enthusiast.
+ㅤ
+
+  <!-- spotify and more -->
+  <div align="center">
 
   <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -86,7 +84,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 </div>
 </br>
 
-
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/icons/github-white.svg" width=18>
@@ -95,13 +92,12 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 </h3>
 <br>
 
-
 <!-- Status -->
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
-</div>
 
+</div>
 
 <!-- Academic Training-->
 <h3 align="center">
@@ -115,6 +111,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <div align="center">
 
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
+
 <div>
 
 <!-- My Tech Stack -->
@@ -137,9 +134,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 <br/>
 
-
-
-
 <!-- My Best Repositories -->
 <div align="center">
 
@@ -149,7 +143,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
    <img src="./assets/icons/bookmark-black.svg" width="14px">
   </h3></br>
 
-
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
@@ -158,7 +151,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
-
 
 <div align="center">
 
@@ -170,8 +162,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
 </div>
-
-
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
