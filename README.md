@@ -1,6 +1,6 @@
 <!-- Banner  -->
 <a href="https://github.com/feliperibeirosesi/feliperibeirosesi">
-  <img src="assets/banner.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="assets/Banner.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
 <!--  views/stars/followers -->
