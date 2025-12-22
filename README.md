@@ -97,17 +97,16 @@ webcore enthusiast.
 <h3 align="center">
  <img src="./assets/w3school.png" width=25>
  My Tech Stack
- <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts," /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,git" /><br>
+    <img src="https://skillicons.dev/icons?i=,github,figma,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino" /><br>
 </div>
 
 <br/>
@@ -116,40 +115,15 @@ webcore enthusiast.
 <div align="center">
 
   <h3>
-   <img src="./assets/icons/bookmark-white.svg" width="12px">
+   <img src="./assets/RegistroEDU.png" width="25px">
    My Best Repositories
-   <img src="./assets/icons/bookmark-black.svg" width="14px">
   </h3></br>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/feliperibeirosesi/Lembra-Plus-task-app">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
+    <a href="https://github.com/feliperibeirosesi/RegistroEdu">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=RegistroEdu&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
-    <a href="https://github.com/feliperibeirosesi/github-readme-educational-badge">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-
-<div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/feliperibeirosesi/MicroControladores">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=microcontroladores&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/feliperibeirosesi/SPACED">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/feliperibeirosesi/WhatIsTheLanguage">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/feliperibeirosesi/Tapiocaria">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=feliperibeirosesi&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=fffff" />
-    </a>
-</div>
+   </div>
 </br>
 
 <p align="center">
