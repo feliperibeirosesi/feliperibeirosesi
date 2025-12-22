@@ -30,7 +30,7 @@ As I continue my path in engineering, I aim to explore new tools, frameworks, an
 
 <!-- Gif  -->
 
-<img align="right" alt="capa-Sobre" width="300" src="https://tenor.com/pt-BR/view/pokemon-gengareguitar-gif-10693006001447972356.gif"></br></br>
+<img align="right" alt="capa-Sobre" width="300" src="./assets/Gengar.gif"></br></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
