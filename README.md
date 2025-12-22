@@ -5,30 +5,10 @@
 
 <!--  views/stars/followers -->
 </br>
-<div align="center">
-<a href="https://github.com/feliperibeirosesi">
-  <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=feliperibeirosesi&label=Profile%20views&color=000000&style=for-the-badge" 
-       alt="Visualizações no perfil"
-       title="Total de visualizações"/> 
-</a>
-<a href="https://api.github-star-counter.workers.dev/user/feliperibeirosesi">
-  <img width="115px" 
-       alt="seguidores" 
-       title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/feliperibeirosesi" /> 
-</a>
-<a href="https://github.com/feliperibeirosesi?tab=followers">
-  <img width="150px" 
-       alt="seguidores" 
-       title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/feliperibeirosesi?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
-</a>
-</div>
 
 </br>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<img src="https://tenor.com/pt-BR/view/golisopod-golisopodthegoat-gif-25172614" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -37,20 +17,20 @@
 
 <div align="justify">
 
-I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
-My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
-At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+I am a student in training to become an Automation Engineer, constantly exploring everything that technology has to offer.
+My journey is driven by curiosity and the desire to understand how systems, machines, and software interact to create efficient and intelligent solutions.
 
-When I turned 18 and entered college, I fully dove into programming.  
-Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
-Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+Throughout my studies, I have been immersing myself in different areas of technology, from programming and control systems to automation and emerging technologies.
+I enjoy learning how to connect theory with real-world applications, always seeking to expand my technical and analytical skills.
+
+As I continue my path in engineering, I aim to explore new tools, frameworks, and innovations, using technology not only to solve problems, but also to optimize processes and build smarter, more reliable systems.
 
 </div>
 </br>
 
 <!-- Gif  -->
 
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="https://tenor.com/pt-BR/view/pokemon-gengareguitar-gif-10693006001447972356"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
@@ -59,23 +39,23 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
-⬛ I enjoy being around more experienced people who challenge me to grow.</br>
-⬜ Currently working on projects with React. </br>
-⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
-⬜ Interested in any large-scale project that makes me think.</br>
-⬛ Minimalism enthusiast.
+I really like chalends and study.</br>
+At the moment study all theoric alone. </br>
+I have 18 years old. </br>
+I love music, mainly Hip-Hop, Rock and pop.</br>
+webcore enthusiast.
 ㅤ
 
   <!-- spotify and more -->
   <div align="center">
 
-  <a href="https://mail.google.com/mail/?view=cm&to=feliperibeirosesi18s@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=feliperjosenew@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/feliperibeirosesi-carlos-89875b258/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
-  <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj?si=31617397ad3e4999" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
   </a>
 
