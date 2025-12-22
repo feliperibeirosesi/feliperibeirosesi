@@ -95,7 +95,7 @@ webcore enthusiast.
 <!-- My Tech Stack -->
 
 <h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
+ <img src="./assets/w3school.png" width=25>
  My Tech Stack
  <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
