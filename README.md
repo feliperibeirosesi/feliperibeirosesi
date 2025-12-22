@@ -102,11 +102,10 @@ webcore enthusiast.
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts," /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,git" /><br>
-    <img src="https://skillicons.dev/icons?i=,github,figma,notion" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=,github,figma,notion,arduino" /><br>
 </div>
 
 <br/>
