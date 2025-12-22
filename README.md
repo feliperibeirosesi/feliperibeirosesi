@@ -1,3 +1,6 @@
+<!--Primeiramente gostária de agradecer ao Glauedson por disponibilizar o READM.ME dele, então caso tenha gostado recomendo passar no github dele e dar uma estrela para o
+projeto.-->
+
 <!-- Banner  -->
 <a href="https://github.com/feliperibeirosesi/feliperibeirosesi">
   <img src="assets/Banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
@@ -34,9 +37,7 @@ As I continue my path in engineering, I aim to explore new tools, frameworks, an
 
 <!-- A Little More About Me -->
  <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
   A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
 I really like challenges and studying.</br>
@@ -102,10 +103,10 @@ webcore enthusiast.
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,git" /><br>
-    <img src="https://skillicons.dev/icons?i=github,figma,notion,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,vite,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,notion" /><br>
 </div>
 
 <br/>
