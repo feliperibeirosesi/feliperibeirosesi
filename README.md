@@ -88,7 +88,7 @@ webcore enthusiast.
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Harvard%20University&course=Ciência%20da%20Computação&degree=Mestrado&progress=90%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GQ7Ku6uEiT0B0nzcP1fqZT4XoDQiir4PRw&s)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Senai%20Roberto%20Mange&course=Analise%20em%20Desenvolvimento%20de%20Sistemas&degree=Mestrado&progress=0%25&img=https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDPoqj7MEiNv%2F&ved=0CBUQjRxqGAoTCNi7hofQ0ZEDFQAAAAAdAAAAABClAQ&opi=89978449)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <div>
 
