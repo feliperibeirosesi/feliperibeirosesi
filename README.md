@@ -50,7 +50,7 @@ webcore enthusiast.
   <!-- spotify and more -->
   <div align="center">
 
-  <a href="https://mail.google.com/mail/?view=cm&to=feliperjosenew@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=felipejosenew@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/feliperibeirosesi-carlos-89875b258/" target="_blank">
