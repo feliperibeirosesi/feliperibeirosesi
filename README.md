@@ -105,7 +105,7 @@ webcore enthusiast.
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp" /><br>
     <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,git" /><br>
-    <img src="https://skillicons.dev/icons?i=,github,figma,notion,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=,github,figma,notion,arduino" />
 </div>
 
 <br/>
