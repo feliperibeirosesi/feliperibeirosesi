@@ -88,7 +88,7 @@ webcore enthusiast.
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Senai%20Roberto%20Mange&course=Analise%20em%20Desenvolvimento%20de%20Sistemas&degree=Tecnológo&progress=0%25&img=https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.sympla.com.br%2Fprodutor%2Fsenaicampinas&ved=0CBUQjRxqGAoTCNCv3eTQ0ZEDFQAAAAAdAAAAABCKAQ&opi=89978449)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Senai%20Roberto%20Mange&course=Analise%20em%20Desenvolvimento%20de%20Sistemas&degree=Tecnólogo&progress=0%25&img=https://github.com/feliperibeirosesi/feliperibeirosesi/blob/main/assets/SENAI.jpg?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <div>
 
@@ -105,8 +105,7 @@ webcore enthusiast.
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp" /><br>
     <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,git" /><br>
-    <img src="https://skillicons.dev/icons?i=,github,figma,notion" /><br>
-     <img src="https://skillicons.dev/icons?i=arduino"/>
+    <img src="https://skillicons.dev/icons?i=github,figma,notion,arduino" /><br>
 </div>
 
 <br/>
