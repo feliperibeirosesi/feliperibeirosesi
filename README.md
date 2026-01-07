@@ -53,7 +53,7 @@ webcore enthusiast.
   <a href="https://mail.google.com/mail/?view=cm&to=felipejosenew@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/feliperibeirosesi-carlos-89875b258/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-jos%C3%A9-ribeiro-a65a213a3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   <a href="https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj?si=31617397ad3e4999" target="_blank">
