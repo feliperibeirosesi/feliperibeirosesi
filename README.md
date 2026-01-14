@@ -75,7 +75,7 @@ webcore enthusiast.
 <!-- Status -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=feliperibeirosesi&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=feliperibeirosesi&theme=shadow-purple&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
