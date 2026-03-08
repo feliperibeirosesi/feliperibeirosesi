@@ -20,7 +20,7 @@ projeto.-->
 
 <div align="justify">
 
-I am a student in training to become an Automation Engineer, constantly exploring everything that technology has to offer.
+I am a student in training to become an electronics Engineer, constantly exploring everything that technology has to offer.
 My journey is driven by curiosity and the desire to understand how systems, machines, and software interact to create efficient and intelligent solutions.
 
 Throughout my studies, I have been immersing myself in different areas of technology, from programming and control systems to automation and emerging technologies.
@@ -89,7 +89,7 @@ webcore enthusiast.
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Fatec%20Americana%20Ministro%20Ralph%20Biasi&course=Segurança%20da%20Informação&degree=Tecnólogo&progress=0%25&img=https://github.com/feliperibeirosesi/feliperibeirosesi/blob/main/assets/Fatec.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Fatec%20Americana%20Ministro%20Ralph%20Biasi&course=Segurança%20da%20Informação&degree=Tecnólogo&progress=2%25&img=https://github.com/feliperibeirosesi/feliperibeirosesi/blob/main/assets/Fatec.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <div>
 
