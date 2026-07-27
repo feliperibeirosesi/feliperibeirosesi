@@ -89,7 +89,7 @@ webcore enthusiast.
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Fatec%20Americana%20Ministro%20Ralph%20Biasi&course=Segurança%20da%20Informação&degree=Tecnólogo&progress=16.1%25&img=https://github.com/feliperibeirosesi/feliperibeirosesi/blob/main/assets/Fatec.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Fatec%20Americana%20Ministro%20Ralph%20Biasi&course=Segurança%20da%20Informação&degree=Tecnólogo&progress=16.2%25&img=https://github.com/feliperibeirosesi/feliperibeirosesi/blob/main/assets/Fatec.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <div>
 
